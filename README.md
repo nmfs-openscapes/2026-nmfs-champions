@@ -20,8 +20,12 @@ each. Agendas are accessible to Cohort participants in our Cohort Google
 Drive Folders (links to come); they are an archive of our live google-doc’ing.
 
 **Cohort A**: Sep 22, Oct 6, 20, Nov 3, 17. Tuesdays 1:00pm - 2:30pm PT.  
+
 **Cohort B**: Sep 23, Oct 7, 21, Nov 4, 18. Wednesdays 10:00 - 11:30am PT.  
+
 **Cohort C**: Sep 23, Oct 7, 21, Nov 4, 18. Wednesdays 1:00 - 2:30pm PT.
+
+
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |----|----|----|
