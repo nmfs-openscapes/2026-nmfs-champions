@@ -1,7 +1,7 @@
 
 <a align="left" href="https://github.com/nmfs-openscapes/2026-nmfs-champions"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
-# 2026 NMFS Champions A
+# 2026 NMFS Openscapes Champions
 
 Welcome to the 2026 NMFS Openscapes Champions Program for NOAA Fisheries
 (National Marine Fisheries Service, NMFS)! This is the website for the
