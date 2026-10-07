@@ -1,5 +1,5 @@
 <img width="549" height="364" alt="images" src="https://github.com/user-attachments/assets/f6a1c717-4fd8-4742-b98b-94d70669e802" />
-![Uploading images.jpg…]()
+
 # GitHub practice from the browser
 
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
