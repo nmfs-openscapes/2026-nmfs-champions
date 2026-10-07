@@ -1,6 +1,6 @@
 <div align="center">
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:9E7C0C,100:241773&height=140&section=header&text=Kelsey%20Martin&fontSize=44&fontColor=FFFFFF&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=24125F&section=header&reversal=false&text=Kelsey+Martin&textBg=false&fontColor=9E7C0C&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=9E7C0C&strokeWidth=0&desc=Data+processing+and+AI+Implementation&descSize=20&descAlign=50&descAlignY=67"
   alt="header"/>
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&size=18&center=true&vCenter=true&width=760&lines=Machine+Learning+AI+%7C+Computer+Vision+%7C+Photogrammetry;AI+Models+%7C+Data+pipelines+%7C+APIs+%7C+Dashboards;Data+processing+and+AI+implementation"
@@ -19,7 +19,7 @@
 </div>
 
 ## Sup  👋
-I work on projects for the Optics Strategic Initiative and with the Gulf Fishery Independent Survey for Habitat and Ecosystem Resources as a data analyst and AI/ML implementation manager.
+I work on projects for the Optics Strategic Initiative and with the Gulf Fishery Independent Survey for Habitat and Ecosystem Resources (GFISHER) as a data analyst and AI/ML implementation manager.
 - 🐟 Focus: optical datasets, reef fish datasets, AI/ML implementation
 - 🔧 R: Package for post processing of AI/ML output data
 - 💻 Implementation: helping our group and the OSI incorporate AI/ML into their workflows
