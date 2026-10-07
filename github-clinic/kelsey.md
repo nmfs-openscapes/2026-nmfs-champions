@@ -1,3 +1,38 @@
+<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:9E7C0C,100:241773&height=140&section=header&text=Kelsey%20Martin&fontSize=44&fontColor=FFFFFF&animation=fadeIn"
+  alt="header"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&size=18&center=true&vCenter=true&width=760&lines=Machine+Learning+AI+%7C+Computer+Vision+%7C+Photogrammetry;AI+Models+%7C+Data+pipelines+%7C+APIs+%7C+Dashboards;Data+processing+and+AI+implementation"
+  alt="typing intro"/>
+<br/>
+<!-- Quick badges (edit as you like) -->
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111827?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=MichaelAkridge-NOAA&label" />
+<br/>
+</div>
+
+## Sup  👋
+I work on projects for the Optics Strategic Initiative and with the Gulf Fishery Independent Survey for Habitat and Ecosystem Resources as a data analyst and AI/ML implementation manager.
+- 🐟 Focus: optical datasets, reef fish datasets, AI/ML implementation
+- 🔧 R: Package for post processing of AI/ML output data
+- 💻 Implementation: helping our group and the OSI incorporate AI/ML into their workflows
+<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00A6D6&height=110&section=footer"
+  alt="footer"
+/>
+</div>
+
+
+
+
 # GitHub practice from the browser
 # Kelsey is the best
 
