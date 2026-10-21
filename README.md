@@ -97,3 +97,14 @@ Mentors](https://nmfs-openscapes.github.io/mentors/)
 
 
 ## Meet the Teams!
+
+### **TEAM MEUS** (Marine Ecosystems of the United States)
+- Corinne Burns, [@corinneburns-NOAA](www.github.com/corinneburns-NOAA), NMFS-OST
+- Chris Kelble, [@ckelble](www.github.com/ckelble), NMFS-OST
+- Will Klajbor, [@willklaj](www.github.com/willklaj), OAR-AOML
+- Ron Klasky, NMFS-OST
+- Avi Litwack, NMFS-OST
+- Jay Peterson, [@JayPeterson-NOAA](www.github.com/JayPeterson-NOAA), NMFS-OST
+- Grace Roskar, [@GraceRoskar](www.github.com/GraceRoskar), NMFS-OST
+- Howard Townsend, [@Htownsendis](www.github.com/Htownsendis), NMFS-OST
+- Ryan Vandermeulen, [@ryanvandermeulen](www.github.com/ryanvandermeulen), NMFS-OST
